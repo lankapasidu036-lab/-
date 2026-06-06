@@ -1,0 +1,6 @@
+{
+  "name": "සල්ලි උල්පත",
+  "description": "A dynamic, high-stakes virtual crash game with smooth canvas animations, realistic multipliers, and local stats tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
